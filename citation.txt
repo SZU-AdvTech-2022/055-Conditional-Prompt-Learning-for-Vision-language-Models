@@ -1,0 +1,7 @@
+@inproceedings{REPO-055,
+    author = "Zhou, Kaiyang and Yang, Jingkang and Loy, Chen Change and Liu, Ziwei",
+    booktitle = "Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition",
+    pages = "16816--16825",
+    title = "{Conditional Prompt Learning for Vision-language Models}",
+    year = "2022"
+}
